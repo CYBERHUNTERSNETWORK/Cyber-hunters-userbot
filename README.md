@@ -115,7 +115,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 Copyright (C) 2021 PRINCE_OP_HACKER 
 
-Poject [DARKBOT](https://github.com/CYBERHUNTERSNETWORK/Cyber-hunters-userbot/) is free software: you can redistribute it and/or modify
+Poject [CYBER-HUNTERS-USERBOT](https://github.com/CYBERHUNTERSNETWORK/Cyber-hunters-userbot/) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 

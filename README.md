@@ -11,7 +11,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 Cyberhuntersbot made by @Prince_op_hacker. Join for update related info channel and group :- https://t.me/Dark_Bot_Support THANKS FOR VISITING OUR REPO💖
 Very easy to deploy. You can deploy Darkbot in very less time
-[![DARKBOT LOGO](https://telegra.ph/file/924389611ece7345e91e7.jpg)](https://t.me/Dark_bot_Support)
+[![CYBERHUNTERSBOT LOGO](https://telegra.ph/file/924389611ece7345e91e7.jpg)](https://t.me/CYBER_HUNTERS_bot_Support)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
